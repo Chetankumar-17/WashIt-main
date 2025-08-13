@@ -2,7 +2,7 @@
 
 WashIt is a Java-based desktop application designed for managing laundry operations. It helps track customers, services, and transactions using a simple and intuitive user interface. The system connects to a MySQL database using JDBC for robust and persistent data storage.
 
-> **Author:** Sanketh Hombale 
+> **Author:** Chetan Kumar 
 
 ---
 
